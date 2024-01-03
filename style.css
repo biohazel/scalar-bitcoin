@@ -1,0 +1,60 @@
+body {
+    font-family: 'JetBrains Mono', monospace;
+    background-color: #808080; /* Gray background */
+    color: #fff;
+    margin: 0;
+    padding: 0;
+}
+
+.terminal-header {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    background-color: #333;
+    color: #33C481;
+    padding: 10px 20px;
+    display: flex;
+    align-items: center;
+    z-index: 10;
+}
+
+.prompt {
+    color: #4af626; /* Green color for the prompt */
+    white-space: nowrap;
+}
+
+.typing-animation {
+    color: #fff; /* White color for the typing animation */
+    border-right: 3px solid #fff; /* Cursor */
+    margin-left: 5px; /* Space between prompt and animation */
+    white-space: nowrap;
+}
+
+.header-links {
+    display: flex;
+    align-items: center;
+    margin-left: auto; /* Pushes the links to the right */
+    
+}
+
+.header-links .link-space {
+    margin-left: 10px; /* Adjust the spacing as needed */
+}
+
+.header-links a {
+    color: #fff;
+    text-decoration: none;
+    margin-left: 20px;
+}
+
+.language-switch {
+    margin-left: 20px;
+}
+
+.language-switch .flag {
+    display: inline-block; 
+    cursor: pointer;
+}
+
+/* Additional styles for the rest of the website */
