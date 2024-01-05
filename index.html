@@ -6,33 +6,135 @@
     <title>scalar</title>
 </head>
 <body>
-    <div class="terminal-header">
-        
-        <span class="prompt">scalar@bitcoin: ~$</span>
-        <span class="typing-animation"></span>
+    <!-- Container for Header Links -->
+    <div class="top-header-links">
+        <a href="#top-of-page" class="link" id="top-of-page">Home</a>
+        <a href="https://github.com/biohazel/code-of-conduct" class="link" target="_blank" id="code-of-conduct">Code of Conduct</a>
+        <a href="#programs-section" class="link" id="programs-link">Programs</a>
+        <a href="#team" class="link" id="team">Team</a>
+        <a href="#sponsors" class="link" id="sponsors">Sponsors</a>
+        <a href="#donate" class="link" id="donate">Donate</a>
+        <span class="language-toggle" id="language-toggle">pt-BR</span>
+    </div>
 
-        <div class="header-links">
-            <a href="https://github.com/biohazel/code-of-conduct" class="link" target="_blank">Code of Conduct</a>
-            <span class="link-space"></span>
-            <a href="#programs" class="link">Programs</a>
-            <span class="link-space"></span>
-            <a href="#team" class="link">Team</a>
-            <span class="link-space"></span>
-            <a href="#sponsors" class="link">Sponsors</a>
-            <span class="link-space"></span>
-            <a href="#donate" class="link">Donate</a>
-            <span class="link-space"></span>
-            <a href="#pt-br" class="link">pt-BR</a>
-            <div class="language-switch">
-                <span class="flag">🇧🇷</span>
-                <!-- Replace with actual flag icons -->
+    <!-- Centered Code Window for Typing Animation -->
+    <div class="code-window" id="code-window">
+        <div class="code-window-header">
+            <span class="window-title" id="window-title">Scalar School of Bitcoin Developers</span>
+            </div>
+        <div class="code-content">
+            <div class="script"></div>
+        </div>
+    </div>
+
+    <!-- Programs Section -->
+    <div id="programs-section" class="programs-section">
+        <div class="container"> <!-- Wrapper container for alignment -->
+            <h1 id="programs-title">Programs</h1>
+            <p id="programs-description">
+                The Scalar School was founded to accommodate a real need for Bitcoin developer training: to provide a solid theoretical foundation. 
+                We concentrate on comprehensive studies of 'Mastering Bitcoin' and 'Mastering the Lightning Network,' as these are essential textbooks for any developer aspiring to delve into more advanced programs like Chaincode Labs and Vinteum. 
+                Our frequent study sessions involve following the tutorials recommended in these books, ensuring a thorough understanding of the concepts. 
+                Scalar also hosts developer meetups, such as Bitdevs Ribeirão Preto. We provide the foundational knowledge. You choose your path.
+            </p>
+            <div class="programs-list">
+                <!-- Program 1 -->
+                <div class="program">
+                    <a href="https://www.amazon.com/Mastering-Bitcoin-Programming-Open-Blockchain/dp/1098150090/ref=sr_1_1?crid=13HX4JKT32U4A&keywords=mastering+bitcoin+3&qid=1704415232&sprefix=mastering+bitcoin+4%2Caps%2C231&sr=8-1" target="_blank">
+                    <img src="/bitconbookcover.png" alt="Mastering Bitcoin 3 Cover"></a>
+                    <h3 id="title-bitcoinbook">bitcoinbook Study Group</h3>
+                    <button class="apply-button" id="apply-button-1">Apply</button>
+                </div>
+                <!-- Program 2 -->
+                <div class="program">
+                    <a href="https://github.com/lnbook/lnbook" target="_blank">
+                    <img src="/lnbookcover.png" alt="LNBook Cover">
+                </a>
+                    <h3 id="title-lnbook">lnbook Study Group</h3>
+                    <button class="apply-button" id="apply-button-2">Apply</button>
+                </div>
+                <!-- Program 3 -->
+                <div class="program">
+                    <a href="https://bitdevsrp.github.io/" target="_blank">
+                    <img src="/BitdevsRP.png" alt="Bitdevs Ribeirão Preto Logo">
+                </a>
+                    <h3>Bitdevs Ribeirão Preto</h3>
+                    <a href="https://bitdevsrp.github.io/" target="_blank">
+                    <button class="apply-button" id="apply-button-3">Next seminars</button>
+                    </a>
+                </div>
+            </div>
+        </div> <!-- End of wrapper container -->
+    </div>
+
+    <div id="team-section" class="team-section">
+        <div class="container">
+            <h1 id="team-title">Team</h1>
+                <!-- Repeat the content from the Programs section for now. You can modify this later. -->
+            </p>
+            <div class="team-list">
+                <div class="program">
+                    <a href="https://www.linkedin.com/in/lucianareyferreira/" target="_blank">
+                    <img src="/headshot1.jpg"></a>
+                    <h3 id="title-founder-name">Luciana Ferreira</h3>
+                    <h4 id="title-founder">Founder | Executive Director </h4>
+                </div>
+                <!-- Program 2 -->
+                <div class="program">
+                </a>
+                <h3 id="title-cofounder1-name">To be announced...</h3>
+                </div>
+                <!-- Program 3 -->
+                <div class="program">
+                    <h3 id="title-cofounder2-name">To be announced...</h3>
+                </div>
+                <!-- Repeat the content structure from the Programs section for now. You can modify this later. -->
             </div>
         </div>
     </div>
-    <div class="typing-animation"></div>
 
-    <!-- Rest of your website content goes here -->
-    <script src="/typing-animation.js"></script>
+    <div id="sponsors-section" class="team-section">
+        <div class="container">
+            <h1 id="sponsors-title">Sponsors</h1>
+            <div class="team-list">
+                <div class="program">
+                </a>
+                <h3 id="name-sponsor1">To be announced...</h3>
+                </div>
+                <!-- Program 2 -->
+                <div class="program">
+                </a>
+                <h3 id="name-sponsor2">To be announced...</h3>
+                </div>
+                <!-- Program 3 -->
+                <div class="program">
+                    <h3 id="name-sponsor3">To be announced...</h3>
+                    
+                </div>
+            </div>
+        </div>
+    </div>
 
+    <div id="donate-section" class="team-section">
+        <div class="container">
+            <h1 id="donate-title">Donate</h1>
+            <p id="donate-description">
+                The flourishing of Bitcoin, the Lightning Network, and other related free and open-source software is significantly enhanced by the positive aspects of decentralization and diversity. These technologies thrive best when there's a wide-ranging and globally distributed array of contributors, each bringing their unique perspectives and backgrounds to the table.
+
+Organizations like ours play a crucial role in harnessing this diversity. We focus on organizing fundraising, talent acquisition, and the efficient allocation of resources. Our efforts are fueled by donations from individuals and corporations who share our vision of diversifying the engineering talent in the Bitcoin ecosystem. This decentralized approach not only ensures a continuous stream of improvements to Bitcoin but also fosters the creation of tools that make it more accessible to everyone, everywhere. This inclusive approach is not just our strength; it's the very foundation of our mission.
+            </p>
+            <button class="donate-button" id="donate-button">Donate with Bitcoin</button>
+            
+        </div>
+    </div>
+
+    <script src="/script.js"></script>
 </body>
+<footer>
+    <div class="footer-links">
+        <a href="mailto:scalarbitcoin@gmail.com" class="footer-contact-link" id="footer-contact-link">Contact us</a>
+    </div>
+    <p id="footer-text">© 2024 All Rights Reserved | Scalar School of Bitcoin Developers</p>
+</footer>
 </html>
+
