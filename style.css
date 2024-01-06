@@ -139,16 +139,16 @@ body {
 
 
 .programs-section {
-    max-height: 100vh; /* Limits the height to the viewport's height */
-    overflow: auto;
+    /* Remove max-height to allow the section to expand as needed */
+    /* Remove overflow: auto; to prevent the secondary scrollbar */
     color: white;
     font-family: 'JetBrains Mono', monospace;
-    text-align: center;
-    padding: 20px;
     text-align: left; /* Aligns the text to the left */
-    margin: 0;
+    padding: 20px; /* Adjust padding as necessary */
+    margin-top: 60px; /* Space for the fixed header, adjust as needed */
     box-sizing: border-box;
 }
+
 
 .programs-section h1 {
     width: calc(100% - 40px); /* Adjust the width to align with images, 40px is an example padding */
@@ -190,10 +190,6 @@ body {
     object-fit: cover;
 }
 
-.apply-button {
-    /* Style your button here */
-}
-
 html {
     scroll-behavior: smooth;
 }
@@ -224,7 +220,7 @@ body, html {
     border: none; /* Removes default button border */
     cursor: pointer; /* Changes the cursor to signify it's clickable */
     padding: 5px 10px; /* Adjust padding as needed */
-    font-size: 1.1em; 
+    font-size: 1.5em; 
     /* Add any other styling as needed */
 }
 
@@ -236,7 +232,7 @@ body, html {
     border: none; /* Removes default button border */
     cursor: pointer; /* Changes the cursor to signify it's clickable */
     padding: 5px 10px; /* Adjust padding as needed */
-    font-size: 1.1em; 
+    font-size: 1.5em; 
     /* Add any other styling as needed */
 }
 

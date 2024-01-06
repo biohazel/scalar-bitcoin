@@ -8,7 +8,7 @@ const translationsEN = {
     'donate': 'Donate',
     'window-title': 'Scalar School of Bitcoin Developers',
     'programs-title': 'Programs',
-    'programs-description': 'The Scalar School was founded to accommodate a real need for early-stage Bitcoin developer training: to provide a solid theoretical foundation. We concentrate on comprehensive studies of \'Mastering Bitcoin\' and \'Mastering the Lightning Network,\' as these are essential textbooks for any developer aspiring to delve into more advanced programs like Chaincode Labs and Vinteum. Our frequent study sessions involve following the tutorials recommended in these books and holding group discussions, ensuring a thorough understanding of the concepts. Scalar also hosts developer meetups, such as Bitdevs Ribeirão Preto. We provide the foundational knowledge. You choose your path.',
+    'programs-description': 'The Scalar School was founded to accommodate a real need in early-stage Bitcoin developer training: establishing a strong theoretical foundation. We focus on in-depth studies of \'Mastering Bitcoin\' and \'Mastering the Lightning Network\', essential textbooks for developers aiming to tackle advanced programs like those offered by Chaincode Labs and Vinteum. Our frequent study sessions involve following the tutorials recommended in these books, facilitating group discussions to ensure a thorough understanding of the concepts. Additionally, Scalar actively fuels community growth and strengthening by hosting developer meetups, such as Bitdevs Ribeirão Preto. We provide the foundational knowledge. You choose your path.',
     'title-bitcoinbook': 'bitcoinbook Study Group',
     'title-lnbook': 'lnbook Study Group',
     'apply-button-1': 'Apply',
@@ -25,10 +25,10 @@ const translationsEN = {
     'sponsors-description': 'If you wish to become a sponsor or support the project in any way, please',
     'contact-link': 'contact us.',
     'donate-title': 'Donate',
-    'donate-description': 'The flourishing of Bitcoin, the Lightning Network, and other related free and open-source software is significantly enhanced by the positive aspects of decentralization and diversity. These technologies thrive best when there\'s a wide-ranging and globally distributed array of contributors, each bringing their unique perspectives and backgrounds to the table. Organizations like ours play a crucial role in harnessing this diversity. We focus on organizing fundraising, talent acquisition, and the efficient allocation of resources. Our efforts are fueled by donations from individuals and corporations who share our vision of diversifying the engineering talent in the Bitcoin ecosystem. This decentralized approach not only ensures a continuous stream of improvements to Bitcoin but also fosters the creation of tools that make it more accessible to everyone, everywhere. This inclusive approach is not just our strength; it\'s the very foundation of our mission.',
+    'donate-description': 'The prosperity of Bitcoin, the Lightning Network, and other related free and open-source software is significantly enhanced by the positive aspects of decentralization and diversity. These technologies thrive best when there\'s a wide-ranging and globally distributed array of contributors, each bringing their unique perspectives and backgrounds to the table. Organizations like ours play a crucial role in harnessing this diversity. We focus on organizing developer training, talent acquisition, fundraising, and the efficient allocation of resources. Our efforts are fueled by donations from individuals and corporations who share our vision of diversifying the engineering talent in the Bitcoin ecosystem. This decentralized approach not only ensures a continuous stream of improvements to Bitcoin but also fosters the creation of tools that make it more accessible to everyone, everywhere. This inclusive approach is not just our strength; it\'s the foundation of our mission.',
     'donate-button': 'Donate with Bitcoin',
     'footer-contact-link': 'Contact us',
-    'footer-text': '© 2024 All Rights Reserved | Scalar School of Bitcoin Developers'
+    'footer-text': '2024 Scalar School of Bitcoin Developers'
 };
 
 const translationsPT = {
@@ -40,14 +40,14 @@ const translationsPT = {
     'donate': 'Doar',
     'window-title': 'Scalar Escola de Desenvolvedores Bitcoin',
     'programs-title': 'Programas',
-    'programs-description': 'A Escola Scalar foi fundada para atender a uma necessidade real de treinamento de desenvolvedores Bitcoin: fornecer uma base teórica sólida. Nosso foco é nos livros \'Mastering Bitcoin\' e \'Mastering the Lightning Network\', pré-requisitos essenciais para qualquer desenvolvedor que aspire se aprofundar em programas mais avançados como os da Chaincode Labs e Vinteum. Nossas sessões de estudo envolvem discutir e seguir os tutoriais recomendados nesses livros, garantindo uma compreensão completa dos conceitos. A Scalar também organiza encontros de desenvolvedores, como o Bitdevs Ribeirão Preto. Nós oferecemos o conhecimento fundamental. Você escolhe seu caminho.',
+    'programs-description': 'A Escola Scalar foi fundada para atender a uma necessidade real no treinamento de desenvolvedores Bitcoin em estágios iniciais: estabelecer uma base teórica sólida. Concentramos nossos estudos aprofundados nos livros \'Mastering Bitcoin\' e \'Mastering the Lightning Network\', pré-requisitos essenciais para desenvolvedores que almejam enfrentar programas avançados, como os oferecidos pela Chaincode Labs e Vinteum. Nossas frequentes sessões de estudo envolvem seguir os tutoriais recomendados nesses livros, facilitando discussões em grupo para garantir uma completa compreensão conceitos. Além disso, a Scalar estimula ativamente o crescimento e fortalecimento da comunidade hospedando encontros de desenvolvedores, como o Bitdevs Ribeirão Preto. Nós oferecemos o conhecimento fundamental. Você escolhe seu caminho.',
     'title-bitcoinbook': 'Estudos bitcoinbook',
     'title-lnbook': 'Estudos lnbook',
     'apply-button-1': 'Participar',
     'apply-button-2': 'Participar',
     'apply-button-3': 'Próximos seminários',
     'team-title': 'Equipe',
-    'title-founder': 'Founder | Diretora Executiva',
+    'title-founder': 'Foundadora | Diretora Executiva',
     'title-cofounder1-name': 'Em breve...',
     'title-cofounder2-name': 'Em breve...',
     'donate-title': 'Doar',
@@ -57,10 +57,10 @@ const translationsPT = {
     "name-sponsor3": 'Em breve...',
     'sponsors-description': 'Se você deseja se tornar um patrocinador ou apoiar o projeto de qualquer forma, por favor',
     'contact-link': 'entre em contato.',
-    'donate-description': 'O florescimento do Bitcoin, da Lightning Network e de outros softwares livres e de código aberto é significativamente realçado pelos aspectos positivos da descentralização e diversidade. Estas tecnologias prosperam melhor quando há uma ampla e globalmente distribuída gama de colaboradores, cada um trazendo suas perspectivas e experiências únicas para a mesa. Organizações como a nossa desempenham um papel crucial no aproveitamento desta diversidade. Nosso foco está na organização de captação de recursos, aquisição de talentos e na eficiente alocação de recursos. Nossos esforços são alimentados por doações de indivíduos e corporações que compartilham nossa visão de diversificar o talento de engenharia no ecossistema do Bitcoin. Esta abordagem descentralizada não só garante um fluxo contínuo de melhorias no Bitcoin, mas também fomenta a criação de ferramentas que tornam a tecnologia mais acessível para todos, em qualquer lugar. Esta abordagem inclusiva não é apenas nossa força; é a própria fundação da nossa missão.',
+    'donate-description': 'A prosperidade do Bitcoin, da Lightning Network e de outros softwares livres e de código aberto é significativamente ampliada pelos aspectos positivos da descentralização e diversidade. Estas tecnologias prosperam melhor quando há uma ampla e globalmente distribuída variedade de colaboradores, cada um trazendo suas perspectivas e experiências únicas para a mesa. Organizações como a nossa desempenham um papel crucial no aproveitamento desta diversidade. Nosso foco está na organização de treinamento e capacitação de desenvolvedores, aquisição de talentos, captação, e eficiente alocação de recursos. Nossos esforços são impulsionados por doações de indivíduos e empresas que compartilham nossa visão de diversificar o talento em engenharia no ecossistema do Bitcoin. Esta abordagem descentralizada não só garante um fluxo contínuo de melhorias no Bitcoin, mas também promove a criação de ferramentas que o tornam mais acessível para todos, em todos os lugares. Esta abordagem inclusiva não é apenas nossa força; é a própria base da nossa missão.',
     'donate-button': 'Doar em Bitcoin',
     'footer-contact-link': 'Fale conosco',
-    'footer-text': '© 2024 Todos os Direitos Reservados | Scalar Escola de Desenvolvedores Bitcoin'
+    'footer-text': '2024 Scalar Escola de Desenvolvedores Bitcoin'
 };
 
 // Phrases for the typing animation
@@ -155,11 +155,13 @@ function restartTypingAnimation() {
 
 // Smooth scrolling to specific sections
 function smoothScrollTo(elementId) {
-    const yOffset = -60; // Adjust based on your header height
+    const yOffset = -80; // Height of the header, adjust accordingly
     const element = document.getElementById(elementId);
     const y = element.getBoundingClientRect().top + window.pageYOffset + yOffset;
+
     window.scrollTo({ top: y, behavior: 'smooth' });
 }
+
 
 document.getElementById('top-of-page').addEventListener('click', function(event) {
     event.preventDefault();
