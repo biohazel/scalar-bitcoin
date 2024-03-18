@@ -28,7 +28,7 @@ const translationsEN = {
     'donate-description': 'The prosperity of Bitcoin, the Lightning Network, and other related free and open-source software is significantly enhanced by the positive aspects of decentralization and diversity. These technologies thrive best when there\'s a wide-ranging and globally distributed array of contributors, each bringing their unique perspectives and backgrounds to the table. Organizations like ours play a crucial role in harnessing this diversity. We focus on organizing developer training, talent acquisition, fundraising, and the efficient allocation of resources. Our efforts are fueled by donations from individuals and corporations who share our vision of diversifying the engineering talent in the Bitcoin ecosystem. This decentralized approach not only ensures a continuous stream of improvements to Bitcoin but also fosters the creation of tools that make it more accessible to everyone, everywhere. This inclusive approach is not just our strength; it\'s the foundation of our mission.',
     'donate-button': 'Donate with Bitcoin',
     'footer-contact-link': 'Contact us',
-    'footer-text': '2024 Scalar School of Bitcoin Developers'
+    'footer-text': '2024 Scalar School — Coded with 🧡 by a junior developer.'
 };
 
 const translationsPT = {
@@ -60,7 +60,7 @@ const translationsPT = {
     'donate-description': 'A prosperidade do Bitcoin, da Lightning Network e de outros softwares livres e de código aberto é significativamente ampliada pelos aspectos positivos da descentralização e diversidade. Estas tecnologias prosperam melhor quando há uma ampla e globalmente distribuída variedade de colaboradores, cada um trazendo suas perspectivas e experiências únicas para a mesa. Organizações como a nossa desempenham um papel crucial no aproveitamento desta diversidade. Nosso foco está na organização de treinamento e capacitação de desenvolvedores, aquisição de talentos, captação, e eficiente alocação de recursos. Nossos esforços são impulsionados por doações de indivíduos e empresas que compartilham nossa visão de diversificar o talento em engenharia no ecossistema do Bitcoin. Esta abordagem descentralizada não só garante um fluxo contínuo de melhorias no Bitcoin, mas também promove a criação de ferramentas que o tornam mais acessível para todos, em todos os lugares. Esta abordagem inclusiva não é apenas nossa força; é a própria base da nossa missão.',
     'donate-button': 'Doar em Bitcoin',
     'footer-contact-link': 'Fale conosco',
-    'footer-text': '2024 Scalar Escola de Desenvolvedores Bitcoin'
+    'footer-text': '2024 Scalar School — Código feito com 🧡 por uma desenvolvedora júnior.'
 };
 
 // Phrases for the typing animation
