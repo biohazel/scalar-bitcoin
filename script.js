@@ -28,7 +28,7 @@ const translationsEN = {
     'donate-description': 'The prosperity of Bitcoin, the Lightning Network, and other related free and open-source software is significantly enhanced by the positive aspects of decentralization and diversity. These technologies thrive best when there\'s a wide-ranging and globally distributed array of contributors, each bringing their unique perspectives and backgrounds to the table. Organizations like ours play a crucial role in harnessing this diversity. We focus on organizing developer training, talent acquisition, fundraising, and the efficient allocation of resources. Our efforts are fueled by donations from individuals and corporations who share our vision of diversifying the engineering talent in the Bitcoin ecosystem. This decentralized approach not only ensures a continuous stream of improvements to Bitcoin but also fosters the creation of tools that make it more accessible to everyone, everywhere. This inclusive approach is not just our strength; it\'s the foundation of our mission.',
     'donate-button': 'Donate with Bitcoin',
     'footer-contact-link': 'Contact us',
-    'footer-text': '2024 Scalar School — Designed with 🧡 by a junior developer.'
+    'footer-text': '2024 Scalar School — Made with 🧡 by a junior developer.'
 };
 
 const translationsPT = {
@@ -40,7 +40,7 @@ const translationsPT = {
     'donate': 'Doar',
     'window-title': 'Scalar Escola de Desenvolvedores Bitcoin',
     'programs-title': 'Programas',
-    'programs-description': 'A Escola Scalar foi fundada para atender a uma necessidade real no treinamento de desenvolvedores Bitcoin em estágios iniciais: estabelecer uma base teórica sólida. Concentramos nossos estudos aprofundados nos livros \'Mastering Bitcoin\' e \'Mastering the Lightning Network\', pré-requisitos essenciais para desenvolvedores que almejam enfrentar programas avançados, como os oferecidos pela Chaincode Labs. Nossas frequentes sessões de estudo envolvem seguir os tutoriais recomendados nesses livros, facilitando discussões em grupo para garantir uma completa compreensão conceitos. Além disso, a Scalar estimula ativamente o crescimento e fortalecimento da comunidade hospedando encontros de desenvolvedores, como o Bitdevs Ribeirão Preto. Nós oferecemos o conhecimento fundamental. Você escolhe seu caminho.',
+    'programs-description': 'A Scalar School foi fundada para atender a uma necessidade real no treinamento de desenvolvedores Bitcoin em estágios iniciais: estabelecer uma base teórica sólida. Concentramos nossos estudos aprofundados nos livros \'Mastering Bitcoin\' e \'Mastering the Lightning Network\', pré-requisitos essenciais para desenvolvedores que almejam enfrentar programas avançados, como os oferecidos pela Chaincode Labs. Nossas frequentes sessões de estudo envolvem seguir os tutoriais recomendados nesses livros, facilitando discussões em grupo para garantir uma completa compreensão conceitos. Além disso, a Scalar estimula ativamente o crescimento e fortalecimento da comunidade hospedando encontros de desenvolvedores, como o Bitdevs Ribeirão Preto. Nós oferecemos o conhecimento fundamental. Você escolhe seu caminho.',
     'title-bitcoinbook': 'Estudos bitcoinbook',
     'title-lnbook': 'Estudos lnbook',
     'apply-button-1': 'Participar',
