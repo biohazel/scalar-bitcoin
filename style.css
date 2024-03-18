@@ -323,9 +323,3 @@ footer p {
     margin-top: 20px;
     font-size: 0.8em;
 }
-
-.sponsor-logo-container img {
-    display: block; /* Torna a imagem um bloco para permitir margens automáticas */
-    margin-left: auto; /* Centraliza a imagem horizontalmente */
-    margin-right: auto; /* Centraliza a imagem horizontalmente */
-}
