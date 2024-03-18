@@ -60,7 +60,7 @@ const translationsPT = {
     'donate-description': 'A prosperidade do Bitcoin, da Lightning Network e de outros softwares livres e de código aberto é significativamente ampliada pelos aspectos positivos da descentralização e diversidade. Estas tecnologias prosperam melhor quando há uma ampla e globalmente distribuída variedade de colaboradores, cada um trazendo suas perspectivas e experiências únicas para a mesa. Organizações como a nossa desempenham um papel crucial no aproveitamento desta diversidade. Nosso foco está na organização de treinamento e capacitação de desenvolvedores, aquisição de talentos, captação, e eficiente alocação de recursos. Nossos esforços são impulsionados por doações de indivíduos e empresas que compartilham nossa visão de diversificar o talento em engenharia no ecossistema do Bitcoin. Esta abordagem descentralizada não só garante um fluxo contínuo de melhorias no Bitcoin, mas também promove a criação de ferramentas que o tornam mais acessível para todos, em todos os lugares. Esta abordagem inclusiva não é apenas nossa força; é a própria base da nossa missão.',
     'donate-button': 'Doar em Bitcoin',
     'footer-contact-link': 'Fale conosco',
-    'footer-text': '2024 Scalar School — Código feito com 🧡 por uma desenvolvedora júnior.'
+    'footer-text': '2024 Scalar School — Feito com 🧡 por uma desenvolvedora júnior.'
 };
 
 // Phrases for the typing animation
